@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.raamcosta.compose-destinations:core:1.1.2-beta@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/corretto-15.0.2/caches/transforms-3/0c201956ce2543442985a6fe2fc42c60/transformed/jetified-core-1.1.2-beta/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-15.0.2/caches/transforms-3/359833fe6c280d9f383d81d8da248992/transformed/jetified-core-1.1.2-beta/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-15.0.2/caches/transforms-3/7f5bd71659812737de37b4b330fffbc8/transformed/jetified-core-1.1.2-beta/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/corretto-15.0.2/caches/transforms-3/7f5bd71659812737de37b4b330fffbc8/transformed/jetified-core-1.1.2-beta/res" />
+      <root url="jar://$USER_HOME$/.jdks/corretto-15.0.2/caches/transforms-3/7f5bd71659812737de37b4b330fffbc8/transformed/jetified-core-1.1.2-beta/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/corretto-15.0.2/caches/modules-2/files-2.1/io.github.raamcosta.compose-destinations/core/1.1.2-beta/b0d59391822cfb1bc56e77936372be05e11cc19a/core-1.1.2-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-15.0.2/caches/modules-2/files-2.1/io.github.raamcosta.compose-destinations/core/1.1.2-beta/a1698b850bdac3cb8c620f3f808f334848753fcf/core-1.1.2-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

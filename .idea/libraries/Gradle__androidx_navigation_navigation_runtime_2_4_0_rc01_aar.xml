@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-runtime:2.4.0-rc01@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/corretto-15.0.2/caches/transforms-3/54a269e3596a90d4d928966336646dbf/transformed/navigation-runtime-2.4.0-rc01/res" />
+      <root url="jar://$USER_HOME$/.jdks/corretto-15.0.2/caches/transforms-3/54a269e3596a90d4d928966336646dbf/transformed/navigation-runtime-2.4.0-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-15.0.2/caches/transforms-3/54a269e3596a90d4d928966336646dbf/transformed/navigation-runtime-2.4.0-rc01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-15.0.2/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.4.0-rc01/2f2bed27eb4e857fb5cc5446a288654e775c3486/navigation-runtime-2.4.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
